@@ -41,7 +41,9 @@ export default function Home() {
             <Logo />
           </div>
         </a>
-        <Contacts style_id={styles.contacts} style_class=""/>
+        <Contacts style_class={styles.contacts}
+          style_id_1={styles.contacts_email}
+          style_id_2={styles.contacts_socials}/>
       </div>
     </div>
   );

@@ -49,11 +49,17 @@
   background-color: #EEE;
 }
 
-#contacts {
+.contacts {
   width: 100%;
   border-top: 1px solid #263228;
-  /* margin: 0px 25px; */
   padding-top: 15px;
-  word-wrap: normal;
+}
+
+#contacts_email {
+  font-size: 1.4rem;
+  padding-bottom: 10px;
+}
+
+#contacts_socials {
   font-size: 1.1rem;
 }
