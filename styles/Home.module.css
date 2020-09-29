@@ -70,7 +70,7 @@
   }
 }
 
-@media (hover: none) {
+@media (hover: none) and (pointer: coarse) {
   #logo_animated path:nth-child(2) {
     animation: logo_fill 0.8s ease forwards;
   }
