@@ -12,7 +12,7 @@ a {
   text-decoration: none;
 }
 
-@media (hover: none) {
+@media (hover: none) and (pointer: coarse) {
   a {
     text-decoration: underline;
   }
