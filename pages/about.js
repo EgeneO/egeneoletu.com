@@ -28,10 +28,10 @@ export default function AboutSection() {
             Egene here. I'm a software developer &#x1F4BB; and recent UNSW
              graduate &#x1F393; with a degree in Computer Science (majoring in
              artificial intelligence). And now have set my sights on a career
-             in web and app development.
+             in web development.
             <br /><br />
-            In my free time you can find me reading sci-fi/fantasy novels
-            &#x1F4DA;, binging&nbsp;
+            When I'm not working on personal projects, you can find me diving
+             into sci-fi/fantasy novels &#x1F4DA;, binging&nbsp;
             <div id={styles.text_loop}>
               <TextLoop>
                   <span>Netflix</span>
