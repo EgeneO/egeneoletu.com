@@ -22,7 +22,7 @@ export default function AboutSection() {
         </div>
         <div id={styles.content}>
           <Typography component="h3" variant="h3">
-            Bonju &#x1F44B;
+            Bonġu &#x1F44B;
           </Typography>
           <Typography className={styles.content_text} component="span" variant="body1" paragraph={true} align="left">
             Egene here. I'm a software developer &#x1F4BB; and recent UNSW
